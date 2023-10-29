@@ -103,6 +103,9 @@ def get_from_file():
 
 
 def check():
+    """
+    checking examples
+    """
     assert encryption("My bounty is as boundless as the sea, My love as deep; the more I give to thee, The more I "
                       "have, for both are infinite.") == ("48,96,98,13,36,92,35,91,96,98,30,90,98,12,90,98,13,36,92,"
                                                           "35,15,33,16,90,90,98,12,90,98,91,19,16,98,90,16,12,99,98,"
