@@ -1,6 +1,6 @@
 """
 Author: Emma Harel
-Date: 07/10/23
+Date: 29/10/23
 Description: encrypting or decrypting a message based on parameter in sys.argv
 """
 import sys
